@@ -1,0 +1,14 @@
+/target
+/output
+.idea
+*.xlsx
+windows.ps1
+port.ps1
+powershellcode
+Cargo.lock
+test.*
+instantclient
+chromiumoxide
+username.txt
+password.txt
+test.txt
